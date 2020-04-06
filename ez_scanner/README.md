@@ -1,6 +1,6 @@
-# ezscanner
+# EzScanner
 
-A new Flutter application.
+EzScanner is the fastest QR/Barcode scanner out there. QR & Barcode Scanner is an essential QR reader for every Android device.
 
 ## Getting Started
 
